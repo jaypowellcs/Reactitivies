@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "TcNP0Bl1hOeGrr2QCchaXYeI5jeF9ABefJ5/6p2V98+8l82U01u+JcpGt0LNV5cdwpr0G0Tlsd0CumQuJITAwA==",
+  "dgSpecHash": "2DZYUW4tJiEvsg6YxRnbxKrJPERtUZlbgtlVtImeWsSZhB3f3pfl8FldifFofzFREM6uf8Kktc+ceiKz3M72LA==",
   "success": true,
   "projectFilePath": "C:\\Users\\jaypowellcs\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaypowellcs\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\jaypowellcs\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\jaypowellcs\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\jaypowellcs\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\jaypowellcs\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\jaypowellcs\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.11\\microsoft.data.sqlite.core.6.0.11.nupkg.sha512",
     "C:\\Users\\jaypowellcs\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.11\\microsoft.entityframeworkcore.6.0.11.nupkg.sha512",
