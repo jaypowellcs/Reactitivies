@@ -25,7 +25,8 @@ namespace Application.Activities
 
             public async Task<List<Activity>> Handle(Query request, CancellationToken cancellationToken)
             {
-               return await this.context.Activities.ToListAsync();
+
+               return await this.context.Activities.ToListAsync(cancellationToken);
             }
         }
     }
